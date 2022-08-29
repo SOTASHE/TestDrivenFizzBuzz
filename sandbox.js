@@ -312,7 +312,6 @@ const fizzBuzz = (number) => {
     
 }
 
-console.log(fizzBuzz(5))
 module.exports = fizzBuzz;
 
 
